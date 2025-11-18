@@ -1,0 +1,31 @@
+body {
+  font-family: Arial;
+  background-color: lightgray;
+  margin: 0;
+}
+
+header, footer {
+  background-color: rgb(7, 7, 118);
+  color: white;
+  text-align: center;
+  padding: 2px;
+}
+
+nav {
+  background-color: white;
+  text-align: center;
+  padding: 5px;
+}
+
+main {
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+}
+a {
+  color: blue;
+  margin: 5px;
+}
+a:hover {
+  color: red;
+}
